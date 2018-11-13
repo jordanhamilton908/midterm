@@ -103,7 +103,7 @@ a:hover {
     padding-right: 31px;
 }
 .floatLeft {
-    float: right;
+    float: left;
 }
 
 .clearMargin {
@@ -142,11 +142,11 @@ a:hover {
 }
 
 .textRight {
-    text-align: left;
+    text-align: right;
 }
 
 .alignRight {
-    text-align: left;
+    text-align: right;
 }
 
 .alignCenter {
