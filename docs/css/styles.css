@@ -6,8 +6,8 @@ body{
     float:left;
 }
 .box{
-    height: 36px;
-    width: 36px;
+    height: 100px;
+    width: 100px;
     border: black 1px solid;
     padding: 7px;
 
@@ -19,13 +19,12 @@ body{
     border: 1px solid black;
 }
 #menu{
-    background-color: antiquewhite;
     height:25px;
     line-height: 25px;
 }
 #footer{
-    background-color: bisque;
+    background-color: black;
 }
 div {
-    background-color: yellow;
+    background-color: white;
 }
