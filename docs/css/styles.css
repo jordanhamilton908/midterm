@@ -5,7 +5,7 @@ body {
 
 #wrapper {
     width: 960px;
-    /* background-color: white; */
+    /* background-color: blanchedalmond; */
 }
 #top {
     height: 135px;
@@ -19,7 +19,7 @@ body {
     padding: 18px;
 }
 #banner {
-    background-image: url("../photos/mountain.jpg");
+    background-image: url("../images//UNADJUSTEDNONRAW_mini_1c.jpg");
     background-size: cover;
     height: 367px;
     position: relative;
@@ -33,7 +33,6 @@ body {
 #footer {
     height: 100px;
     line-height: 100px;
-    color: black
 }
 
 #banner h1 {
