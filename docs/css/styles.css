@@ -18,10 +18,7 @@ body{
     width: 960px;
     border: 1px solid black;
 }
-#menu{
-    height:25px;
-    line-height: 25px;
-}
+
 #footer{
     background-color: black;
 }
