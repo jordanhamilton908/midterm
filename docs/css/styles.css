@@ -23,6 +23,7 @@ body {
     background-size: cover;
     height: 367px;
     position: relative;
+    float: left;
 }
 #main {
     margin-top: 31px;
@@ -33,6 +34,7 @@ body {
 #footer {
     height: 100px;
     line-height: 100px;
+    color: black
 }
 
 #banner h1 {
